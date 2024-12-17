@@ -425,14 +425,14 @@ a {
 .cta-s {
   background: #ffffff;
   border-radius: 8px;
-  padding: 5px 0px 5px 15px;
+  padding: 5px 0px 5px 0px;
   display: flex;
   flex-direction: row;
   gap: 8px;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  width: 255px;
+  width: 155px;
   height: 55px;
   position: absolute;
   left: 50%;
